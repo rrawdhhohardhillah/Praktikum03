@@ -10,6 +10,6 @@ public class Mahasiswa16 {
         System.out.println("Kelas  : " + this.kelas);
         System.out.println("IPK    : " + this.ipk);
         System.out.println("-----------------------------------");
-}
+    }
 }
 
